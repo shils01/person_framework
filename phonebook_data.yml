@@ -1,0 +1,52 @@
+person:
+ 
+      - fname: Sarah
+        surname: Lowe
+        dob: 1 Jun 1989 
+        emails: 
+              - sarah@gmail.com
+              - sarah123hotmail.com 
+              - ss@yahoo.com 
+        phone: 
+                      - 07987722737
+                      - 07892234444
+
+      - fname: Mark 
+        surname: Wood 
+        dob: 4 Jan 1990 
+        emails: 
+              - Markwood@gmail.com
+              - woodmark@hotmail.com 
+        phones:
+             - 07894444333
+             - 08888444444
+             - 08999976555
+
+      - fname: Jon
+        surname: Smith 
+        dob: 23 Mar 1988
+        emails: 
+              - smithjon@hotmail.com
+              - jonsmith@gmail.com 
+              - jon123@yahoo.co.uk
+              - js@googlemail.com 
+        phone: 
+              - 0789999999999
+              - 0767888889999
+
+      - fname: Carl
+        surname: Haywood 
+        dob: 14 Aug 1979
+        emails: 
+              - carlhay@hotmail.com
+              - haycarl@gmail.com 
+              - cark123@yahoo.co.uk
+              - 123carl@googlemail.com 
+        phone:
+             - 078982833344
+             - 078990443344
+
+
+
+
+
